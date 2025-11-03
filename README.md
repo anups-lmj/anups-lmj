@@ -47,16 +47,19 @@ Jetson Orin Nano, STM32, Raspberry Pi 등 다양한 보드에서 펌웨어 제�
 #### [스쿨존 위험감지 자율주행 시뮬레이션](https://github.com/whdtjr/autonomous-driving-project) 
 스쿨존 내 돌발 상황을 실시간으로 감지하고 차량 주행 시스템에 안전 신호를 전달하는 엣지 AI 자율주행 시뮬레이션을 구현 
 > `Python` `TensorRT` `YOLOv8` `ROS2` `Qt` `OpenCV` `PyTorch` `TCP/IP`
+
 > 사용한 디바이스 : `jetson orin nano` `turtle bot burger`
 
 #### [스마트 글래스 프로젝트](https://github.com/CSeongBeom/INTEL7_TEAM1)
 Jetson 기반의 실시간 객체 인식 및 음성 안내 시스템 구현  
 > `PyTorch` `TTS/STT` `TCP/IP ` `Socket Server` `ollama` `C` `Python`
+
 > 사용한 디바이스: `jetson orin nano` `RealSense` 
 
 #### [스마트 수경재배 시스템](https://github.com/anups-lmj/intel_miniProject)
 Arduino + 센서 + TCP/IP + MariaDB를 이용해 수위·환경을 자동 제어하고 실시간으로 모니터링  
 > `C` `MariaDB` `Network` `Sensor Control`
+
 > 사용한 디바이스: `Arduino`
 
 
