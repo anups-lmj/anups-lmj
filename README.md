@@ -59,7 +59,7 @@ Jetson 기반의 실시간 객체 인식 및 음성 안내 시스템 구현
 
 #### [스마트 수경재배 시스템](https://github.com/anups-lmj/intel_miniProject)
 Arduino + 센서 + TCP/IP + MariaDB를 이용해 수위·환경을 자동 제어하고 실시간으로 모니터링  
-> `C` `MariaDB` `Network` `Sensor Control`
+> `C` `TCP/IP` `MariaDB` `Network` `Sensor Control`
 
 > 사용한 디바이스: `Arduino`
 
