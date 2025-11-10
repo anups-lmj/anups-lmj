@@ -64,7 +64,7 @@ Arduino + 센서 + TCP/IP + MariaDB를 이용해 수위·환경을 자동 제어
 > 사용한 디바이스: `Arduino`
 
 #### [OpenCV OCR 프로그램](https://github.com/whdtjr/image-scanner-opencv)
-OpenCV, Qt를 활용한 OCR GUI 프로그램 구현
+OpenCV, Qt를 활용한 OCR GUI 프로그램 구현 
 > `C++` `Qt` `Ubuntu`
 
 ---
